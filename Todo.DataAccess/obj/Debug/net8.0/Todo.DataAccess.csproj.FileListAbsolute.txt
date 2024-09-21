@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\bin\Debug\net8.0\Todo.DataAccess.deps.json
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\bin\Debug\net8.0\Todo.DataAccess.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\bin\Debug\net8.0\Todo.DataAccess.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\bin\Debug\net8.0\Todo.DataAccess.pdb
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\bin\Debug\net8.0\Todo.Models.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\bin\Debug\net8.0\Todo.Models.pdb
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.Dat.9A4CB628.Up2Date
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\refint\Todo.DataAccess.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.pdb
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\ref\Todo.DataAccess.dll

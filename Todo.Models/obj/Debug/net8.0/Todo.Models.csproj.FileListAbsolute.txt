@@ -1,0 +1,11 @@
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\bin\Debug\net8.0\Todo.Models.deps.json
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\bin\Debug\net8.0\Todo.Models.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\bin\Debug\net8.0\Todo.Models.pdb
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\obj\Debug\net8.0\Todo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\obj\Debug\net8.0\Todo.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\obj\Debug\net8.0\Todo.Models.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\obj\Debug\net8.0\Todo.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\obj\Debug\net8.0\Todo.Models.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\obj\Debug\net8.0\refint\Todo.Models.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\obj\Debug\net8.0\Todo.Models.pdb
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.Models\obj\Debug\net8.0\ref\Todo.Models.dll
