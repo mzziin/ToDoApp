@@ -1,23 +1,59 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Todo.DataAccess.Data;
 using Todo.Models;
 
 namespace Todo.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ApplicationDbContext _db;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ApplicationDbContext db)
         {
-            _logger = logger;
+            _db = db;
         }
 
         public IActionResult Index()
         {
+            List<Tasks> TaskList = _db.Tasks.ToList();
+            return View(TaskList);
+        }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Create(Tasks obj)
+        {
+            if (ModelState.IsValid)
+            {
+                _db.Tasks.Add(obj);
+                _db.SaveChanges();
+                TempData["success"] = "Created Successfully";
+                return RedirectToAction("Index");
+            }
+            TempData["error"] = "Something went wrong";
             return View();
         }
 
+        public IActionResult CompleteTask(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+            Tasks? obj = _db.Tasks.Find(id);
+            if (obj == null)
+            {
+                return NotFound();
+            }
+            _db.Tasks.Remove(obj);
+            _db.SaveChanges();
+            TempData["success"] = "Successfully completed";
+            return RedirectToAction("Index");
+        }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
