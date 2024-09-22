@@ -139,3 +139,4 @@ C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo\obj\Debug\net8.0\refint\Todo.dll
 C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo\obj\Debug\net8.0\Todo.pdb
 C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo\obj\Debug\net8.0\Todo.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo\obj\Debug\net8.0\ref\Todo.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo\obj\Debug\net8.0\Todo.sourcelink.json

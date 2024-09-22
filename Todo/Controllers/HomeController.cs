@@ -31,7 +31,7 @@ namespace Todo.Controllers
             {
                 _db.Tasks.Add(obj);
                 _db.SaveChanges();
-                TempData["success"] = "Created Successfully";
+                TempData["success"] = "New Task Created";
                 return RedirectToAction("Index");
             }
             TempData["error"] = "Something went wrong";
@@ -51,7 +51,7 @@ namespace Todo.Controllers
             }
             _db.Tasks.Remove(obj);
             _db.SaveChanges();
-            TempData["success"] = "Successfully completed";
+            TempData["success"] = "Task completed successfully";
             return RedirectToAction("Index");
         }
 

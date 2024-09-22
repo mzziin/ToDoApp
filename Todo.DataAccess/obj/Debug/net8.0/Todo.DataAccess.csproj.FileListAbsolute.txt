@@ -15,3 +15,4 @@ C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\refint
 C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.pdb
 C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\ref\Todo.DataAccess.dll
+C:\Users\DELL\OneDrive\Desktop\Core\Todo\Todo.DataAccess\obj\Debug\net8.0\Todo.DataAccess.sourcelink.json
